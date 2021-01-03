@@ -21,7 +21,7 @@ url: 'https://padosory5.github.io'
 
 author: Aiden Hong                  # change to your full name
 
-avatar: /images/IMG_1338.jpg   # support internet resources
+avatar:    # support internet resources
 
 github:
   username: github_username             # change to your github username
