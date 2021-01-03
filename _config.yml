@@ -21,7 +21,7 @@ url: 'https://padosory5.github.io'
 
 author: Aiden Hong                  # change to your full name
 
-avatar:    # support internet resources
+avatar: /assets/img/myAvatar/IMG_1338.jpg    # support internet resources
 
 github:
   username: github_username             # change to your github username
@@ -79,7 +79,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: <dark>   # <light|dark>
+theme_mode:   # <light|dark>
 
 # boolean type, the global switch for ToC in posts.
 toc: true
